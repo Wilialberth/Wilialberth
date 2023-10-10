@@ -23,7 +23,7 @@ Mis habilidades incluyen:
 - React.js
 - Node.js
 - Sequelize
-- Postgres
+- PostgreSQL
 - Trabajo en equipo
 - Habilidades de análisis
 - Capacidad de escucha
