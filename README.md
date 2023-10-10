@@ -24,10 +24,6 @@ Mis habilidades incluyen:
 - Node.js
 - Sequelize
 - PostgreSQL
-- Trabajo en equipo
-- Habilidades de análisis
-- Capacidad de escucha
-- Toma de decisiones
 - Experiencia con Git
 
 ## Proyecto Destacado
@@ -70,11 +66,9 @@ My skills include:
 - React.js
 - Node.js
 - Sequelize
-- Postgres
+- PostgreSQL
 - Teamwork
 - Analytical skills
-- Active listening
-- Decision-making
 - Git experience
 
 ## Featured Project
