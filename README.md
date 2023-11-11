@@ -47,7 +47,7 @@ Hello, I'm Wilialberth Jiménez!
 
 ## About Me
 
-I'm a professional with a background in technology, healthcare, and customer service, actively seeking job opportunities to apply and demonstrate my skills and knowledge. My career is characterized by organization, motivation, and the ability to learn quickly, allowing me to adapt to various work environments and challenges.
+I am a passionate professional with a strong background in technology, eagerly seeking a new career opportunity to apply and showcase my skills and knowledge. My track record is characterized by organizational prowess, intrinsic motivation, and a rapid learning ability, making me an adaptable candidate for various work environments and challenges. Beyond completing assigned tasks, I actively strive to establish and foster a positive work environment for my colleagues. Furthermore, my experience in healthcare and customer service brings a unique and valuable perspective to my skill set. I am excited about the prospect of contributing to the success of your team and tackling new challenges with dedication and professionalism.
 
 - Graduated from the Faculty of Medicine at the Central University of Venezuela as a cardiopulmonary specialist.
 - Currently pursuing a degree in Chemical Engineering at the National Technological University of Córdoba, Argentina.
