@@ -4,7 +4,7 @@
 
 ## Acerca de mí
 
-Soy un profesional con formación en tecnología, salud y atención al cliente, en busca de oportunidades laborales para aplicar y demostrar mis habilidades y conocimientos. Mi trayectoria se destaca por la organización, la motivación y la capacidad de aprendizaje rápido, lo que me permite adaptarme a diversos entornos de trabajo y desafíos.
+Soy un apasionado profesional con una sólida formación en tecnología, ansioso por sumergirme en una nueva oportunidad laboral que me permita desplegar y destacar mis habilidades y conocimientos. Mi historial se distingue por mi capacidad organizativa, motivación intrínseca y habilidad para absorber nuevos conceptos rápidamente, lo que me posiciona como un candidato adaptable a diversos entornos laborales y desafíos. Mi compromiso va más allá de las tareas asignadas, ya que busco activamente establecer y fomentar un ambiente laboral positivo para colaboradores. Además, mi experiencia en el ámbito de la salud y la atención al cliente aporta una perspectiva única y valiosa a mi conjunto de habilidades. Estoy entusiasmado por la posibilidad de contribuir al éxito de su equipo y enfrentar nuevos desafíos con dedicación y profesionalismo.
 
 - Graduado en la Facultad de Medicina de la Universidad Central de Venezuela como cardiopulmonar.
 - Actualmente, cursando Ingeniería Química en la Universidad Tecnológica Nacional de Córdoba, Argentina.
